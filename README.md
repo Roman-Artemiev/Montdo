@@ -11,6 +11,6 @@
 
  - Html
  - Css
- - UX & UI form https://github.com/dizer2
+ - UX & UI from https://github.com/dizer2
  - Js
 
