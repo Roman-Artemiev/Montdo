@@ -226,14 +226,12 @@ img {
     font-size: 16px;
     line-height: 20px;
     color: #161A18;
-    transition: 1s;
+    transition: 0.4s;
 }
 
 .header__link:hover {
-    font-size: 17px;
-    color: #000000;
+    color: #FFAC5F;
 }
-
 .header__button_learn__more {
     width: 155px;
     height: 46px;
