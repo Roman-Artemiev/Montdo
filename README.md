@@ -6,3 +6,11 @@
     <br>
     <br>
 </h1>
+
+<h3>Main features:</h3>
+
+ - Html
+ - Css
+ - UX & UI form https://github.com/dizer2
+ - Js
+
