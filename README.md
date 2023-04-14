@@ -1,5 +1,5 @@
 <h1 align = "center">
-    <a href="https://romzez1595.github.io/Montdo/"><img width="700" alt="Screenshot" src="https://lh3.googleusercontent.com/dEd0RTBVpUSYy0VbG7tt_CdGSv_qO0AgUOSISa-b2EdjJ74zOkkzd1WoQd4mbVkgPJlB3ioBVb9c_yq8Np-F6GBwHQwunNW0F76OTMY"></a>
+    <a href="https://romzez1595.github.io/Montdo/"><img width="700" alt="Screenshot" src="https://drive.google.com/file/d/1IZrsBIyLb7FSsouC4nxGGNDY2hWPnSuy/view?usp=share_link"></a>
     <br>
     <br>
     🏐 Montdo - custom project Volleyball Academy 🏐
