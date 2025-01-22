@@ -849,6 +849,28 @@ img {
 /* Footer Style End */
 
 
+.develop-page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.develop-page h2 {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+.develop-page p {
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
 
 
 
@@ -2670,3 +2692,6 @@ img {
         line-height: 20px;
     }
 }
+
+
+
